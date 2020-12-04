@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "indexx.html",
+    "currentPage": "página.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -740,7 +740,7 @@
         }
       ]
     },
-    "indexx.html": {
+    "página.html": {
       "settings": {
         "title": "EAD Cursos",
         "order": 1,
